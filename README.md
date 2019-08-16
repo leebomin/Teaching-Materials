@@ -14,4 +14,4 @@
   * [Basic Statistics for Data Analysis (with Titanic)](https://github.com/dataitgirls3/Teaching-Materials/blob/master/Basic%20Statistics%20for%20Data%20Analysis.ipynb)
 * Data Visualization
 * Python
-  * Comprehension
+  * [Comprehension](https://github.com/dataitgirls3/Teaching-Materials/blob/master/Comprehension.ipynb)
